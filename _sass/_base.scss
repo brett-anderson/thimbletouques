@@ -30,3 +30,45 @@
 .nav {
   // background: white;
 }
+.quote-page {
+  height: 500px;
+  padding: 12% 20%;
+  background: rgb(42,44,57);
+  color: white;
+  .quote-wrapper {
+    text-align: center;
+  }
+
+  h4.quote {
+    font-size: 40px;
+    font-family: "Cardo";
+  }
+  .cite {
+    font-size: 20px;
+  }
+  img {
+    display: inline-block;
+    width: 50px;
+  }
+}
+
+
+.why-thimble {
+  height: 500px;
+  background: rgb(239,	71,	35	);
+  .fa {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .reason {
+    margin-top: 100px;
+  }
+
+  p, h1 {
+    font-family: "Lato";
+    color: #333;
+  }
+  h1 {
+    margin-top: 75px;
+  }
+}

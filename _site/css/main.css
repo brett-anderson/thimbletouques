@@ -16,3 +16,33 @@
     width: 100%;
     background: rgba(0, 0, 0, 0.5);
     padding: 30px 0; }
+
+.quote-page {
+  height: 500px;
+  padding: 12% 20%;
+  background: #2a2c39;
+  color: white; }
+  .quote-page .quote-wrapper {
+    text-align: center; }
+  .quote-page h4.quote {
+    font-size: 40px;
+    font-family: "Cardo"; }
+  .quote-page .cite {
+    font-size: 20px; }
+  .quote-page img {
+    display: inline-block;
+    width: 50px; }
+
+.why-thimble {
+  height: 500px;
+  background: #ef4723; }
+  .why-thimble .fa {
+    display: block;
+    margin-bottom: 20px; }
+  .why-thimble .reason {
+    margin-top: 100px; }
+  .why-thimble p, .why-thimble h1 {
+    font-family: "Lato";
+    color: #333; }
+  .why-thimble h1 {
+    margin-top: 75px; }
